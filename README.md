@@ -1,4 +1,8 @@
-# Banking-System
-copyright@shubham
-Project No2
-Strating Date -01/june/2021 End - 2 nd week of June
+# BankingSystem
+Project No 2 ( Basic Banking System) The Sparks Foundation 
+Copyright@ Shubham 
+Intern@The Spark Foundation
+Starting Date:01/jun/2021 - Ending Date - 2nd Week Of June
+
+
+
